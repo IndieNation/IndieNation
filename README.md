@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, je suis Recruteur Freelance 👋
+
+J'aide les startups et scale-up, en France et à l'étranger, à trouver non pas un CV avec les bons mots clés mais la bonne personne pour le bon projet.
+
+J'aime particulièrement travailler sur des missions liées au Développement web & mobile, à la Data, à la mouvance DevOps, au Software Craftsmanship et à la Cybersécurité.
+
+Vous trouverez dans la section #Projects les missions en cours.
+
+Si l'une d'elles vous intéresse, faites moi signe 😉
 
 <!--
 **IndieNation/IndieNation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
