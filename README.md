@@ -8,6 +8,7 @@ Vous trouverez dans la section #Projects les missions en cours.
 
 Si l'une d'elles vous intéresse, faites moi signe 😉
 
+📩 mathieu@indienation.fr
 <!--
 **IndieNation/IndieNation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
