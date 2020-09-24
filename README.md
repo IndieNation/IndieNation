@@ -4,6 +4,8 @@ J'aide les startups et scale-up, en France et à l'étranger, à trouver non pas
 
 J'aime particulièrement travailler sur des missions liées au Développement web & mobile, à la Data, à la mouvance DevOps, au Software Craftsmanship et à la Cybersécurité.
 
+Je vous en dit plus sur ma façon de faire : https://www.youtube.com/watch?v=0Hfeoa-qcfQ&t=43s
+
 Vous trouverez dans la section #Projects les missions en cours (updated).
 
 Si l'une d'elles vous intéresse, faites moi signe 😉
