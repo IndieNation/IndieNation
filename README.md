@@ -6,22 +6,18 @@ J'aime particulièrement travailler sur des missions liées au Développement we
 
 Je vous en dit plus sur ma façon de faire : https://www.youtube.com/watch?v=0Hfeoa-qcfQ
 
-Vous trouverez dans la section #Projects les missions en cours (updated).
 
-Si l'une d'elles vous intéresse, faites moi signe 😉
+Marre du #bullshit des Recruteurs ?
 
-📩 mathieu@indienation.fr
+Alors voici ce que je vous propose :
+
+1️⃣ Vous me dites quel #job pourrait vous intéresser
+2️⃣ Je vous envoie un message personnalisé UNIQUEMENT si j'ai une #offre qui match
+3️⃣ On en discute en détails !
+
+A vous de jouer 🙂
+
+👉 https://airtable.com/shrqcLjkb0X1FTPfQ
+
 <!--
 **IndieNation/IndieNation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
