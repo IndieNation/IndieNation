@@ -12,7 +12,9 @@ Marre du #bullshit des Recruteurs ?
 Alors voici ce que je vous propose :
 
 1️⃣ Vous me dites quel #job pourrait vous intéresser
+
 2️⃣ Je vous envoie un message personnalisé UNIQUEMENT si j'ai une #offre qui match
+
 3️⃣ On en discute en détails !
 
 A vous de jouer 🙂
